@@ -22,7 +22,7 @@ const Contact = () => {
             <i className="fa fa-phone" />
             <p>
               <span className="small-text">Số điện thoại</span>
-              +84939635089
+                0939.79.43.86
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -31,7 +31,7 @@ const Contact = () => {
             <i className="fa fa-location-dot" />
             <p>
               <span className="small-text">Địa chỉ</span>
-              Can Tho, HCMC
+              HCMC
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -42,7 +42,7 @@ const Contact = () => {
             <i className="fa fa-envelope" />
             <p>
               <span className="small-text">email</span>
-              alexfinance101@outlook.com
+              Phanminhthuyhan@gmail.com
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}

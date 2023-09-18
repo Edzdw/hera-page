@@ -12,11 +12,11 @@ const Home = () => {
             <span className="position-relative">
               <span className="animated-layer">To</span>
               <span className="intro animated-layer">
-                "Beyond a Simple Bot Trade - Your Gateway to Infinite Opportunities!"
+                "Một sản phẩm tài chính thuần tự nhiên nương theo quy luật "
               </span>
             </span>
             <span>
-              <span className="animated-layer">Infinity EA</span>
+              <span className="animated-layer">vận hành hình sin</span>
             </span>
           </h1>
         </div>

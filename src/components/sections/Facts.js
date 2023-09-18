@@ -9,7 +9,7 @@ const Facts = () => {
         >
           <div>
             <div>
-              <h3>56+</h3>
+              <h3>36+</h3>
               <p>
                 Tháng<span>Kinh nghiệm</span>
               </p>
@@ -24,7 +24,7 @@ const Facts = () => {
         >
           <div>
             <div>
-              <h3>10%</h3>
+              <h3>10-15%</h3>
               <p>
                 Lợi nhuận<span>hàng tháng</span>
               </p>

@@ -26,7 +26,7 @@ const About = () => {
             </span>
             <span>
               <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                Trần Tường Thụy
+                Cộng đồng OM
               </span>
             </span>
           </h2>
@@ -129,7 +129,7 @@ const About = () => {
               <span>
                 <i className="devicon-wordpress-plain" />
               </span>
-              <h4>Tự động giao dịch</h4>
+              <h4>Kiểm soát AI</h4>
             </div>
             {/* SKILL ITEM ENDS */}
             {/* SKILL ITEM STARTS */}
@@ -220,7 +220,7 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Infinity 1</h4>
+                  <h4>Thành tựu 1</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>10 2022</span>
@@ -237,7 +237,7 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Infinity 4</h4>
+                  <h4>Thành tựu 4</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>4 2023</span>
@@ -254,7 +254,7 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Infinity 2</h4>
+                  <h4>Thành tựu 2</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>12 2022</span>
@@ -271,7 +271,7 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
                 <div className="education">
-                  <h4>Infinity EA</h4>
+                  <h4>Thành tựu EA</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>2023+</span>
@@ -288,7 +288,7 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="education">
-                  <h4>Infinity 3</h4>
+                  <h4>Thành tựu 3</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>3 2023</span>
