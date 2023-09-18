@@ -12,7 +12,7 @@ const Home = () => {
             <span className="position-relative">
               <span className="animated-layer">Thuần tự nhiên</span>
               <span className="intro animated-layer">
-                " thuần tự nhiên nương theo quy luật "
+                "OM Group"
               </span>
             </span>
             <span>
