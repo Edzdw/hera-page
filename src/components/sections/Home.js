@@ -6,13 +6,13 @@ const Home = () => {
           <h1>
             <span>
               <span className="animated-layer">
-                Welcome<span>.</span>
+                Một sản phẩm <span> tài chính </span>
               </span>
             </span>
             <span className="position-relative">
               <span className="animated-layer">To</span>
               <span className="intro animated-layer">
-                "Một sản phẩm tài chính thuần tự nhiên nương theo quy luật "
+                " thuần tự nhiên nương theo quy luật "
               </span>
             </span>
             <span>
