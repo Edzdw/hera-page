@@ -667,7 +667,7 @@ header .mobile-menu {
   display: flex;
   margin: 45px 0 0 30px;
   white-space: nowrap;  
-
+  overflow: hidden;
 }
 
 
@@ -2760,8 +2760,17 @@ header .mobile-menu {
   }
 
 
-  /* .about .infos {
-    white-space: wrap;
-  } */
+
 
 }
+
+@media only screen 
+    and (device-width : 375px) 
+    and (device-height : 812px) 
+    and (-webkit-device-pixel-ratio : 3) { 
+      
+      .about .infos {
+        white-space: wrap;
+      }
+
+    }
