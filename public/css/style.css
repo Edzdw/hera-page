@@ -665,6 +665,7 @@ header .mobile-menu {
   display: flex;
   margin: 45px 0 0 30px;
   white-space: nowrap;  
+  overflow: hidden;
 }
 
 .about .infos ul li {
