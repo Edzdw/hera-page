@@ -2604,6 +2604,7 @@ header .mobile-menu {
   .about .infos,
   .contact .boxes {
     flex-direction: column;
+    white-space: inherit;
   }
 
 
@@ -2763,14 +2764,3 @@ header .mobile-menu {
 
 
 }
-
-@media only screen 
-    and (device-width : 375px) 
-    and (device-height : 812px) 
-    and (-webkit-device-pixel-ratio : 3) { 
-      
-      .about .infos {
-        white-space: wrap;
-      }
-
-    }
