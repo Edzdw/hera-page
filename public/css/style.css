@@ -667,15 +667,13 @@ header .mobile-menu {
   display: flex;
   margin: 45px 0 0 30px;
   white-space: nowrap;  
-  overflow: hidden;
-  overflow-wrap: break-word;
+
 }
 
 
 
-.infos_contents {
-  overflow-wrap: break-word;
-}
+
+
 
 .about .infos ul li {
   line-height: 44px;
@@ -2762,8 +2760,8 @@ header .mobile-menu {
   }
 
 
-  .about .infos {
+  /* .about .infos {
     white-space: wrap;
-  }
+  } */
 
 }
