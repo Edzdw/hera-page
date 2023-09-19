@@ -35,13 +35,15 @@ const About = () => {
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Kinh nghiệm :</span>
-                    <span>20 năm trong lĩnh vực đào tạo  </span>
-                    <p>& kèm cặp tài chính & bảo hiểm cá nhân</p>
+                    <span>Lời ngỏ :</span>
+                    <span>Sự vận hành vạn vật luôn tuân theo các nguyên lý của tự nhiên… Khi tĩnh lặng thì tự khắc sẽ cảm nhận được về chân lý, </span>
+                    <p> mà chân lý luôn là những điều rất đơn giản và cũng rất giản dị… Quy Luật Tài chính cũng như thế. </p>
+                    <p> Nó chỉ là phương tiện nó có thể đưa bạn vào vùng tối tăm hoặc cũng có thể đưa bạn đến vùng ánh sáng êm dịu, </p>
+                    <p> quan trọng là góc nhìn của bạn đối với Nó như thế nào mà thôi… Nếu Bạn được cam kết đến vùng ánh sáng êm dịu thì Bạn có cam kết lại … để rồi từng ngày sự hòa hợp luôn được tốt hơn !!!</p>
                   </span>
                 </span>
               </li>
-              <li>
+              {/* <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Quốc tịch :</span>
@@ -90,7 +92,7 @@ const About = () => {
                     <span> alexfinance101@outlook.com</span>
                   </span>
                 </span>
-              </li>
+              </li> */}
               {/* <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
