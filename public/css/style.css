@@ -664,7 +664,7 @@ header .mobile-menu {
 .about .infos {
   display: flex;
   margin: 45px 0 0 30px;
-  white-space: nowrap;
+  white-space: nowrap;  
 }
 
 .about .infos ul li {
@@ -2752,12 +2752,7 @@ header .mobile-menu {
   }
 
 
-  .about .info ul li > div .infos_contents {
-    text-wrap: balance ;
-  }
-
   .about .infos {
-
     white-space: wrap;
   }
 
