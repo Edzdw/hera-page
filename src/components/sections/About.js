@@ -37,39 +37,32 @@ const About = () => {
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>OM Group:</span>
                     <span>" Sự vận hành vạn vật luôn tuân theo các nguyên lý của tự nhiên… Khi tĩnh lặng thì tự khắc sẽ cảm nhận được về chân lý, </span>
-                    <p> mà chân lý luôn là những điều rất đơn giản và cũng rất giản dị… Quy Luật Tài chính cũng như thế. </p>
-                    <p> Nó chỉ là phương tiện nó có thể đưa bạn vào vùng tối tăm hoặc cũng có thể đưa bạn đến vùng ánh sáng êm dịu, </p>
-                    <p> quan trọng là góc nhìn của bạn đối với Nó như thế nào mà thôi… Nếu Bạn được cam kết đến vùng ánh sáng êm dịu </p>
-                    <p> thì Bạn có cam kết lại … để rồi từng ngày sự hòa hợp luôn được tốt hơn !!! " </p>
-                  </span>
-                </span>
-              </li>
-              {/* <li>
-                <span>
-                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Quốc tịch :</span>
-                    <span>VietNam</span>
                   </span>
                 </span>
               </li>
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Chức vụ:</span>
-                    <span>RD (Regional Director, FWD)</span>
+                    <span> mà chân lý luôn là những điều rất đơn giản và cũng rất giản dị… Quy Luật Tài chính cũng như thế. </span>
                   </span>
                 </span>
               </li>
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Ngôn ngữ :</span>
-                    <span>Tiếng anh, Tiếng Việt</span>
+                    <span> Nó chỉ là phương tiện nó có thể đưa bạn vào vùng tối tăm hoặc cũng có thể đưa bạn đến vùng ánh sáng êm dịu, </span>
+                  </span>
+                </span>
+              </li>
+              <li>
+                <span>
+                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
+                    <span> thì Bạn có cam kết lại … để rồi từng ngày sự hòa hợp luôn được tốt hơn !!! " </span>
                   </span>
                 </span>
               </li>
             </ul>
-            <ul>
+            {/* <ul>
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
@@ -93,8 +86,8 @@ const About = () => {
                     <span> alexfinance101@outlook.com</span>
                   </span>
                 </span>
-              </li> */}
-              {/* <li>
+              </li>
+              <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Accomplishments :</span>
@@ -103,8 +96,8 @@ const About = () => {
                     <span>Building 833 agency & 99 Agency leaders at the end of 31 July 2022.</span>
                   </span>
                 </span>
-              </li> */}
-            </ul>
+              </li> 
+            </ul> */}
           </div>
         </div>
         {/* INFO ENDS */}
