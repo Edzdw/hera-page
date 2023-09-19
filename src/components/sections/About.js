@@ -35,31 +35,106 @@ const About = () => {
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>" Sự vận hành vạn vật luôn tuân theo các nguyên lý của tự nhiên… Khi tĩnh lặng thì tự khắc sẽ cảm nhận được về chân lý, </span>
+                    <span>Sự vận hành vạn vật luôn tuân theo </span>
                   </span>
                 </span>
               </li>
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span> mà chân lý luôn là những điều rất đơn giản và cũng rất giản dị… Quy Luật Tài chính cũng như thế. </span>
+                    <span>các nguyên lý của tự nhiên… </span>
                   </span>
                 </span>
               </li>
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span> Nó chỉ là phương tiện nó có thể đưa bạn vào vùng tối tăm hoặc cũng có thể đưa bạn đến vùng ánh sáng êm dịu, </span>
+                    <span> Khi tĩnh lặng thì tự khắc </span>
                   </span>
                 </span>
               </li>
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span> thì Bạn có cam kết lại … để rồi từng ngày sự hòa hợp luôn được tốt hơn !!! " </span>
+                    <span> sẽ cảm nhận được về chân lý </span>
                   </span>
                 </span>
               </li>
+              
+              <li>
+                <span>
+                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
+                    <span> mà chân lý luôn là những điều </span>
+                  </span>
+                </span>
+              </li>
+
+              <li>
+                <span>
+                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
+                    <span>" rất đơn giản và cũng rất giản dị… </span>
+                  </span>
+                </span>
+              </li>
+
+              <li>
+                <span>
+                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
+                    <span>Quy Luật Tài chính cũng như thế. </span>
+                  </span>
+                </span>
+              </li>
+
+              <li>
+                <span>
+                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
+                    <span>Quy Luật Tài chính cũng như thế. </span>
+                  </span>
+                </span>
+              </li>
+
+              <li>
+                <span>
+                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
+                    <span>Nó chỉ là phương tiện đưa bạn vào </span>
+                  </span>
+                </span>
+              </li>
+
+              <li>
+                <span>
+                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
+                    <span> vùng tối tăm hoặc cũng có thể </span>
+                  </span>
+                </span>
+              </li>
+
+              <li>
+                <span>
+                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
+                    <span>đưa bạn đến vùng ánh sáng êm dịu, </span>
+                  </span>
+                </span>
+              </li>
+
+              <li>
+              <span>
+                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
+                    <span>thì Bạn có cam kết lại … </span>
+                  </span>
+                </span>
+              </li>
+
+              
+              <li>
+              <span>
+                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
+                    <span>để rồi từng ngày sự hòa hợp luôn được tốt hơn !!! </span>
+                  </span>
+                </span>
+              </li>
+
+            
             </ul>
             {/* <ul>
               <li>
