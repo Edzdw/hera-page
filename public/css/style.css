@@ -723,10 +723,7 @@ header .mobile-menu {
 }
 
 
-.infos_contents {
-  white-space-collapse: break-spaces;
-  text-wrap: wrap;
-}
+
 
 /* Skills */
 
@@ -2755,4 +2752,9 @@ header .mobile-menu {
   .copyright {
     padding: 20px 0 30px;
   }
+}
+
+.infos_contents {
+  white-space-collapse: break-spaces;
+  text-wrap: wrap;
 }
