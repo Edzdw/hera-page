@@ -2601,6 +2601,7 @@ header .mobile-menu {
     flex-direction: column;
   }
 
+
   .about .infos ul:nth-child(2) {
     margin-left: 0;
   }
@@ -2754,7 +2755,3 @@ header .mobile-menu {
   }
 }
 
-.infos_contents {
-  white-space-collapse: break-spaces;
-  text-wrap: wrap;
-}
