@@ -10,13 +10,13 @@ const Home = () => {
               </span>
             </span>
             <span className="position-relative">
-              <span className="animated-layer">Thuần tự nhiên</span>
+              <span className="animated-layer">Thuần tự nhiên nương theo</span>
               <span className="intro animated-layer">
-                "OM Group"
+                
               </span>
             </span>
             <span>
-              <span className="animated-layer">nương theo quy luật vận hành hình sin</span>
+              <span className="animated-layer"> quy luật vận hành hình sin</span>
             </span>
           </h1>
         </div>
