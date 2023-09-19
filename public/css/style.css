@@ -695,6 +695,7 @@ header .mobile-menu {
   font-weight: 500;
 }
 
+
 .about .infos ul li > span > span span:nth-child(2) a {
   /* iOS fixes*/
   text-decoration: none !important;
@@ -719,6 +720,12 @@ header .mobile-menu {
 
 .about .infos ul:nth-child(2) {
   margin-left: 75px;
+}
+
+
+.infos_contents {
+  white-space-collapse: break-spaces;
+  text-wrap: wrap;
 }
 
 /* Skills */
