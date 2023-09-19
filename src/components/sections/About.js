@@ -36,15 +36,19 @@ const About = () => {
                 <span>
                   <span className="content-containers  animated-layer fade-in-up-animation fadeInUp wow">
                     <div class = "infos_contents">
-                    Sự vận hành vạn vật luôn tuân theo các nguyên lý của tự nhiên… Khi tĩnh lặng thì tự khắc sẽ cảm nhận được về chân lý, mà chân lý luôn là những điều rất đơn giản và cũng rất giản dị
+                    Sự vận hành vạn vật luôn tuân theo các nguyên lý của tự nhiên… Khi tĩnh lặng thì tự khắc sẽ cảm nhận được về chân lý, mà chân lý luôn là những điều rất đơn giản
                     </div>
 
                     <div class = "infos_contents">
-                    … Quy Luật Tài chính cũng như thế Nó chỉ là phương tiện để đưa bạn vào vùng tối tăm, hoặc cũng có thể đưa bạn đến vùng ánh sáng êm dịu, 
+                    và cũng rất giản dị… Quy Luật Tài chính cũng như thế Nó chỉ là phương tiện nó có thể đưa bạn vào vùng tối tăm, 
                     </div>
 
                     <div class = "infos_contents">
-                    quan trọng là góc nhìn của bạn đối với Nó như thế nào mà thôi…  nếu Bạn được cam kết đến vùng ánh sáng êm dịu thì Bạn có cam kết lại … để rồi từng ngày sự hòa hợp luôn được tốt hơn !!!
+                    hoặc cũng có thể đưa bạn đến vùng ánh sáng êm dịu, quan trọng là góc nhìn của bạn đối với Nó như thế nào mà thôi… 
+                    </div>
+
+                    <div class = "infos_contents">
+                    Nếu Bạn được cam kết đến vùng ánh sáng êm dịu thì Bạn có cam kết lại … để rồi từng ngày sự hòa hợp luôn được tốt hơn !!!
                     </div>
 
                   </span>
