@@ -2752,8 +2752,8 @@ header .mobile-menu {
   }
 
 
-  .infos_contents {
-    text-wrap: balance !important;
+  .about .info ul li > div .infos_contents {
+    text-wrap: balance ;
   }
 
 }
