@@ -2756,7 +2756,7 @@ header .mobile-menu {
 
 
   .infos_contents {
-    text-wrap: balance;
+    text-wrap: balance !important;
   }
 
 }
