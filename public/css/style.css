@@ -2755,6 +2755,9 @@ header .mobile-menu {
   .about .info ul li > div .infos_contents {
     text-wrap: balance ;
   }
-
+  span.content-containers.-layer.fade-in-up-animation.fadeInUp.wow.animated {
+    display: flex;
+    flex-direction: column;
+  }
 }
 
