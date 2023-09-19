@@ -2753,5 +2753,11 @@ header .mobile-menu {
   .copyright {
     padding: 20px 0 30px;
   }
+
+
+  .infos_contents {
+    text-wrap: wrap;
+  }
+
 }
 
