@@ -9,12 +9,12 @@ const Copyright = () => {
       <div>
         <span>© {new Date().getFullYear()} Infinity EA</span>
         <span>
-          Designed By{" "}
+          Được thiết kế bởi {" "}
           <a
             target="_blank"
             href="https://themeforest.net/user/Codeefly/portfolio"
           >
-            Infinity Developers 
+            Đội ngũ phát triển InfinityEA 
           </a>
         </span>
         <ul>
