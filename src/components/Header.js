@@ -62,20 +62,20 @@ const Header = () => {
             <ul>
               <li>
                 <span className="active" id="home-link">
-                  Home
+                  Trang chủ
                 </span>
               </li>
               <li>
-                <span id="about-link">About</span>
+                <span id="about-link">Thông tin</span>
               </li>
               <li>
-                <span id="portfolio-link">Portfolio</span>
+                <span id="portfolio-link">Sản phẩm</span>
               </li>
               <li>
-                <span id="contact-link">Contact</span>
+                <span id="contact-link">Liên hệ</span>
               </li>
               <li>
-                <span id="blog-link">Blog</span>
+                <span id="blog-link">Hướng dẫn</span>
               </li>
               <li>
                 {email ? <span id="network-link">Network</span> : <span id="sign-in" onClick={toggleSignInModal}>Sign In</span>}
@@ -103,27 +103,27 @@ const Header = () => {
           <ul className="list-unstyled" id="menu">
             <li>
               <a href="#home">
-                <span>Home</span>
+                <span>Trang chủ</span>
               </a>
             </li>
             <li>
               <a href="#my-photo">
-                <span>About</span>
+                <span>Thông tin</span>
               </a>
             </li>
             <li>
               <a href="#portfolio">
-                <span>Portfolio</span>
+                <span>Sản phẩm</span>
               </a>
             </li>
             <li>
               <a href="#contact">
-                <span>Contact</span>
+                <span>Liên hệ</span>
               </a>
             </li>
             <li>
               <a href="#blog">
-                <span>Blog</span>
+                <span>Hướng dẫn</span>
               </a>
             </li>
             <li>
