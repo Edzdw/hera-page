@@ -6,11 +6,11 @@ const Home = () => {
           <h1>
             <span>
               <span className="animated-layer">
-                Một sản phẩm <span> tài chính </span>
+                Một sản phẩm tài chính <span> Thuần tự nhiên </span>
               </span>
             </span>
             <span className="position-relative">
-              <span className="animated-layer">Thuần tự nhiên nương theo</span>
+              <span className="animated-layer"> nương theo</span>
               <span className="intro animated-layer">
                 
               </span>
