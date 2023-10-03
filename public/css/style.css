@@ -2569,6 +2569,11 @@ header .mobile-menu {
     margin: 15px 0 25px;
   }
 
+  .home > div > div h1 > span > span:not(.intro) {
+    font-size: 24px;
+  }
+
+
   .home > div {
     padding: 0;
     display: flex;
