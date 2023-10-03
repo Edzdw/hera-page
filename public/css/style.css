@@ -2305,8 +2305,8 @@ header .mobile-menu {
 
   .portfolio .single-item .main-content,
   .portfolio .single-item .main-content img {
-    width: 538px;
-    height: 372px;
+    width: 90%;
+    height: 90%;
   }
 
   .portfolio .single-item {
