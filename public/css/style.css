@@ -1978,7 +1978,6 @@ header .mobile-menu {
 
   .about .infos ul li > span > span {
     animation-delay: initial !important;
-    width: 300px;
   }
 
   header .mobile-menu {
@@ -2595,6 +2594,9 @@ header .mobile-menu {
     white-space: inherit;
   }
 
+  .about .infos ul li > span > span {
+    width: 300px;
+  }
 
   .about .infos ul:nth-child(2) {
     margin-left: 0;
