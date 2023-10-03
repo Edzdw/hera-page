@@ -624,7 +624,6 @@ header .mobile-menu {
 .about .info {
   display: flex;
   padding-left: 150px;
-  width: 975px;
 }
 
 .about img.my-photo {
@@ -655,12 +654,10 @@ header .mobile-menu {
 .about .infos {
   display: flex;
   margin: 45px 0 0 30px;
-  white-space: nowrap;  
   overflow: hidden;
+  width: 975px;
+
 }
-
-
-
 
 
 
