@@ -1978,7 +1978,7 @@ header .mobile-menu {
 
   .about .infos ul li > span > span {
     animation-delay: initial !important;
-    width: 100%;
+    width: 300px;
   }
 
   header .mobile-menu {
