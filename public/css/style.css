@@ -2537,10 +2537,12 @@ header .mobile-menu {
 }
 
 @media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
+  and (min-device-width: 1180px) 
+  and (max-device-width: 1180px) 
   and (orientation: landscape) 
-  and (-webkit-min-device-pixel-ratio: 1) {
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+} {
 
 	.home > div > div h1 {
 		font-size: 32px;
