@@ -2537,10 +2537,7 @@ header .mobile-menu {
 }
 
 @media only screen 
-  and (min-device-width: 1180px) 
-  and (max-device-width: 1180px) 
-  and (orientation: landscape) 
-  and (-webkit-min-device-pixel-ratio: 2) {
+  and (min-width: 1170px) {
 
 } {
 
