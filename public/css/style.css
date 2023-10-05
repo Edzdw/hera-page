@@ -2536,6 +2536,21 @@ header .mobile-menu {
 
 }
 
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+	.home > div > div h1 {
+		font-size: 32px;
+	}
+	.about .infos ul li > span > span {
+		width: 400px;
+	}
+
+}
+
 
 @media screen and (max-width: 767px) {
   body {
